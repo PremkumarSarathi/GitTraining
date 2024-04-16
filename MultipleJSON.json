@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Scott",
+    "email": "neerupeeru@mail.ee",
+    "purpose": "thesis",
+    "programme": "Software Engineering",
+    "year": "2016",
+    "language": "C",
+    "comments": "In need of correcting a dangling participle.",
+    "status": "RECEIVED"
+  },
+  {
+    "name": "John",
+    "email": "John@mail.ee",
+    "purpose": "thesis",
+    "programme": "Software Engineering",
+    "year": "2018",
+    "language": "JAVA",
+    "comments": "In need of correcting a dangling participle.",
+    "status": "NOT RECEIVED"
+  }
+]
